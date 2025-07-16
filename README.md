@@ -1,4 +1,4 @@
-! [logo]() 
+! [logo](https://github.com/Akash-07-web/Akash-29/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner_20240712_215726_0000.png) 
 <h1 align="center">Hi 👋, I'm Akash Deshmukh</h1>
 <h3 align="center">A passionate Fullstack java developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
